@@ -1,0 +1,15 @@
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.csproj.AssemblyReference.cache
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.AssemblyInfoInputs.cache
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.AssemblyInfo.cs
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.csproj.CoreCompileInputs.cache
+C:\Users\kurna\Desktop\work\dzdz3\bin\Debug\net6.0\dzdz3.exe
+C:\Users\kurna\Desktop\work\dzdz3\bin\Debug\net6.0\dzdz3.deps.json
+C:\Users\kurna\Desktop\work\dzdz3\bin\Debug\net6.0\dzdz3.runtimeconfig.json
+C:\Users\kurna\Desktop\work\dzdz3\bin\Debug\net6.0\dzdz3.dll
+C:\Users\kurna\Desktop\work\dzdz3\bin\Debug\net6.0\dzdz3.pdb
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.dll
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\refint\dzdz3.dll
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.pdb
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\dzdz3.genruntimeconfig.cache
+C:\Users\kurna\Desktop\work\dzdz3\obj\Debug\net6.0\ref\dzdz3.dll
